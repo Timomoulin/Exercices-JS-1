@@ -30,6 +30,3 @@ btnExo1.addEventListener("click", function () {
 });
 
 
-for (let i = 0; i < 25; i++) {
-    console.log(`la valeur de i est ${i}`);
-}
